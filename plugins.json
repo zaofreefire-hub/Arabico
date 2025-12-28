@@ -1,4 +1,3 @@
-
 [
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
@@ -9,7 +8,7 @@
     "language": "ar",
     "authors": ["kingslayer_007"],
     "tvTypes": ["TvSeries","Movie","Anime","AsianDrama"],
-    "version": 16,
+    "version": 17,
     "internalName": "FaselHDProvider",
     "url": "https://raw.githubusercontent.com/zaouifreire-hub/Arabico/main/build/FaselHDProvider.cs3",
     "name": "FaselHDProvider"
@@ -23,7 +22,7 @@
     "language": "ar",
     "authors": ["kingslayer_007"],
     "tvTypes": ["TvSeries","Movie","Anime"],
-    "version": 12,
+    "version": 13,
     "internalName": "MyCimaProvider",
     "url": "https://raw.githubusercontent.com/zaouifreire-hub/Arabico/main/build/MyCimaProvider.cs3",
     "name": "MyCimaProvider"
@@ -37,7 +36,7 @@
     "language": "ar",
     "authors": ["kingslayer_007"],
     "tvTypes": ["TvSeries","Movie"],
-    "version": 7,
+    "version": 8,
     "internalName": "FajerShowProvider",
     "url": "https://raw.githubusercontent.com/zaouifreire-hub/Arabico/main/build/FajerShowProvider.cs3",
     "name": "FajerShowProvider"
@@ -51,7 +50,7 @@
     "language": "ar",
     "authors": ["ImZaw"],
     "tvTypes": ["Anime"],
-    "version": 5,
+    "version": 6,
     "internalName": "AnimeiatProvider",
     "url": "https://raw.githubusercontent.com/zaouifreire-hub/Arabico/main/build/AnimeiatProvider.cs3",
     "name": "AnimeiatProvider"
@@ -65,7 +64,7 @@
     "language": "ar",
     "authors": ["kingslayer_007"],
     "tvTypes": ["TvSeries","Movie"],
-    "version": 16,
+    "version": 17,
     "internalName": "ArabSeedProvider",
     "url": "https://raw.githubusercontent.com/zaouifreire-hub/Arabico/main/build/ArabSeedProvider.cs3",
     "name": "ArabSeedProvider"
@@ -79,7 +78,7 @@
     "language": "ar",
     "authors": ["kingslayer_007"],
     "tvTypes": ["Anime","AnimeMovie","OVA"],
-    "version": 5,
+    "version": 6,
     "internalName": "AnimeBlkomProvider",
     "url": "https://raw.githubusercontent.com/zaouifreire-hub/Arabico/main/build/AnimeBlkomProvider.cs3",
     "name": "AnimeBlkomProvider"
